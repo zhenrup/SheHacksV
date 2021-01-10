@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang ="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name = "viewport" content = "width=device-width, initial-scale=1.0">
+        <meta http-equiv="X=UA-Compatible" content="ie=edge">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"> </script>
+		<script type=text/javascript> $(function() { $("#mybutton").click(function (event) { $.getJSON('/second', { }, function(data) { }); return false; }); }); </script> 
+        <title>Sustainable Recipe Converter</title>
+    </head>
+    <body>
+        <header>
+            <div class = "logo-container">
+                <h4 class = "logo">Sustainable Recipe Alternatives</h4class> </h4>
+            </div>
+            <div>
+                <h5 class = "description">Enter URL and get sustainable recipe alternatives & your saved carbon emissions!</h4class> </h4>
+            </div>
+        </header>
+        <label>
+            <input type="text" id = "mybutton" placeholder="Enter Recipe URL"></input>
+            <a href="/second"><button>Enter</button></a>
+
+            
+        </label>
+        <div class="photo"></div>
+
+        
+        </div>
+        
+    </body> 
+</html>

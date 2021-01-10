@@ -1,0 +1,40 @@
+html,
+body,
+section {
+    height: 100%;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+body {
+    color: #fff;
+    font-size: 1.25rem;
+    line-height: 150%;
+    text-align: center;
+}
+​div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.container {
+    display: flex;
+}
+.left-half {
+    background-color: #ace1af;
+    flex: 1;
+    padding: 1rem;
+    color: white;
+}
+
+.right-half{
+    flex: 1;
+    padding: 1rem;
+    color:black;
+}
+
+.center {
+    display: block;
+    margin-left: 150;
+    margin-right: 50;
+    width: 100%;
+  }
