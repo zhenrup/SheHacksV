@@ -1,531 +1,1017 @@
-b'<!doctype
-html>\n<!--\n
-/((((((\\\\\\\\\n=======((((((((((\\\\\\\\\\\n
-((
-\\\\\\\\\\\\\\\n
-(
-(*
-_/
-\\\\\\\\\\\\\\\n
-\\
-/
-\\
-\\\\\\\\\\\\________________\n
-|
-|
-|
-</
-((\\\\\\\\\n
-o_|
-/
-/
-\\
-\\\\\\\\
-\\\\\\\\\\\\\\\n
-|
-._
-(
-\\
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\n
-|
-/
-/
-/
-\\\\\\\\\\\\\\
-\\\\\n
-.______/\\/
-/
-/
-/
-\\\\\\\n
-/
-__.____/
-_/
-________(
-/\\\n
-/
-/
-/
-________/`_________\'
-\\
-/
-\\_\n
-/
-/
-\\
-\\
-\\
-\\
-\\_
-\\\n
-(
-<
-\\
-\\
->
-/
-\\
-\\\n
-\\/
-\\\\_
-/
-/
->
-)\n
-\\_|
-/
-/
-/
-/\n
-_//
-_//\n
-/_|
-/_|\n-->\n<html
-lang="EN">\n
-<head>\n
-<title>Easy
-Korean
-Ground
-Beef
-Bowl
-Recipe
-|
-Allrecipes</title>\n
-<meta
-charset="utf-8">\n
-<link
-rel="shortcut
-icon"
-href="/favicon.ico"
-type="image/vnd.microsoft.icon">\n
-<link
-rel="icon"
-href="/img/favicons/favicon-32.png"
-sizes="32x32">\n
-<meta
-http-equiv="X-UA-Compatible"
-content="IE=edge">\n
-<link
-rel="apple-touch-icon"
-href="/img/favicons/favicon-57.png">\n
-<link
-rel="apple-touch-icon"
-href="/img/favicons/favicon-57.png"
-sizes="57x57">\n
-<link
-rel="apple-touch-icon"
-href="/img/favicons/favicon-72.png"
-sizes="72x72">\n
-<link
-rel="apple-touch-icon"
-href="/img/favicons/favicon-76.png"
-sizes="76x76">\n
-<link
-rel="apple-touch-icon"
-href="/img/favicons/favicon-114.png"
-sizes="114x114">\n
-<link
-rel="apple-touch-icon"
-href="/img/favicons/favicon-120.png"
-sizes="120x120">\n
-<link
-rel="apple-touch-icon"
-href="/img/favicons/favicon-144.png"
-sizes="144x144">\n
-<link
-rel="apple-touch-icon"
-href="/img/favicons/favicon-152.png"
-sizes="152x152">\n
-<link
-rel="apple-touch-icon"
-href="/img/favicons/favicon-180.png"
-sizes="180x180">\n
-<link
-rel="icon"
-sizes="192x192"
-href="/img/favicons/favicon-192.png">\n
-<link
-rel="manifest"
-href="/manifest.json">\n
-<link
-rel="preload"
-as="script"
-href="https://karma.mdpcdn.com/service/js-min/karma.js">\n
-<link
-rel="preload"
-as="script"
-href="https://securepubads.g.doubleclick.net/tag/js/gpt.js">\n
-<meta
-name="viewport"
-content="width=device-width,
-initial-scale=1">\n
-<meta
-name="description"
-content="This
-Korean
-beef
-bowl
-is
-seasoned
-with
-green
-onions,
-ginger,
-soy
-sauce,
-and
-sesame
-and
-served
-over
-brown
-rice
-for
-a
-quick
-and
-easy
-dinner.">\n
-<link
-rel="canonical"
-href="https://www.allrecipes.com/recipe/268091/easy-korean-ground-beef-bowl/">\n
-<meta
-property="og:title"
-content="Easy
-Korean
-Ground
-Beef
-Bowl">\n
-<meta
-property="og:type"
-content="article">\n
-<meta
-property="og:site_name"
-content="Allrecipes">\n
-<meta
-property="og:url"
-content="https://www.allrecipes.com/recipe/268091/easy-korean-ground-beef-bowl/">\n
-<meta
-property="og:description"
-content="This
-Korean
-beef
-bowl
-is
-seasoned
-with
-green
-onions,
-ginger,
-soy
-sauce,
-and
-sesame
-and
-served
-over
-brown
-rice
-for
-a
-quick
-and
-easy
-dinner.
-">\n
-<meta
-name="pinterest:url"
-content="https://www.allrecipes.com/recipe/268091/easy-korean-ground-beef-bowl/">\n
-<meta
-name="twitter:card"
-content="summary_large_image">\n
-<meta
-name="twitter:url"
-content="https://www.allrecipes.com/recipe/268091/easy-korean-ground-beef-bowl/">\n
-<meta
-name="twitter:title"
-content="Easy
-Korean
-Ground
-Beef
-Bowl">\n
-<meta
-name="twitter:description"
-content="This
-Korean
-beef
-bowl
-is
-seasoned
-with
-green
-onions,
-ginger,
-soy
-sauce,
-and
-sesame
-and
-served
-over
-brown
-rice
-for
-a
-quick
-and
-easy
-dinner.">\n
-<meta
-name="pinterest:description"
-content="This
-Korean
-beef
-bowl
-is
-seasoned
-with
-green
-onions,
-ginger,
-soy
-sauce,
-and
-sesame
-and
-served
-over
-brown
-rice
-for
-a
-quick
-and
-easy
-dinner.">\n
-<meta
-name="pinterest:media"
-content="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5759837.jpg">\n
-<meta
-name="twitter:image"
-content="https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1763&h=923&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5759837.jpg">\n
-<meta
-property="og:image"
-content="https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1763&h=923&url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5759837.jpg">\n
-<meta
-property="og:image:width"
-content="1763">\n
-<meta
-property="og:image:height"
-content="923">\n
-<meta
-name="og:rating"
-content="4.63785046728972">\n
-<meta
-name="og:rating_scale"
-content="5">\n
-<meta
-name="robots"
-content="max-image-preview:large">\n
-<meta
-property="fb:app_id"
-content="66102450266">\n
-<meta
-property="fb:pages"
-content="71158748377">\n
-<script
-type="application/ld+json">\n
-[\n
-{\n
-"@context":
-"http://schema.org",\n
-"@type":
-"BreadcrumbList",\n
-"itemListElement":
-[\n
-{\n
-"@type":
-"ListItem",\n
-"position":
-1,\n
-"item":
-{\n
-"@id":
-"https://www.allrecipes.com/",\n
-"name":
-"Home",\n
-"image":
-null\n
-}\n
-},\n
-{\n
-"@type":
-"ListItem",\n
-"position":
-2,\n
-"item":
-{\n
-"@id":
-"https://www.allrecipes.com/recipes/",\n
-"name":
-"Recipes",\n
-"image":
-null\n
-}\n
-},\n
-{\n
-"@type":
-"ListItem",\n
-"position":
-3,\n
-"item":
-{\n
-"@id":
-"https://www.allrecipes.com/recipes/86/world-cuisine/",\n
-"name":
-"World
-Cuisine
-Recipes",\n
-"image":
-null\n
-}\n
-},\n
-{\n
-"@type":
-"ListItem",\n
-"position":
-4,\n
-"item":
-{\n
-"@id":
-"https://www.allrecipes.com/recipes/227/world-cuisine/asian/",\n
-"name":
-"Asian",\n
-"image":
-null\n
-}\n
-}\n
-]\n
-},\n
-{\n
-"@context":
-"http://schema.org",\n
-"@type":
-"Recipe",\n
-"mainEntityOfPage":
-"https://www.allrecipes.com/recipe/268091/easy-korean-ground-beef-bowl/",\n
-"name":
-"Easy
-Korean
-Ground
-Beef
-Bowl",\n
-"image":
-{\n
-"@type":
-"ImageObject",\n
-"url":
-"https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F5759837.jpg",\n
-"width":
-null,\n
-"height":
-null,\n
-"caption":
-"Easy
-Korean
-Ground
-Beef
-Bowl"\n
-},\n
-"datePublished":
-"2020-05-20T23:07:11.000Z",\n
-"description":
-"Korean
-beef
-bowls
-are
-quick
-and
-easy
-to
-make.
-The
-ingredients
-can
-easily
-be
-adjusted
-to
-suit
-your
-taste.
-Serve
-over
-warm
-rice
-or
-spiralized
-vegetables.",\n
-"prepTime":
-"P0DT0H10M",\n
-"cookTime":
-"P0DT0H15M",\n
-"totalTime":
-"P0DT0H25M",\n
-"recipeYield":
-"4
-bowls",\n
-"recipeIngredient":
-[\n
-"1
-pound
-lean
-ground
-beef",\n
-"5
-cloves
-garlic,
-crushed",\n
-"1
-tablespoon
-freshly
-grated
-ginger",\n
-"2
-teaspoons
-toasted
-sesame
-oil",\n
-"1/2
-cup
-reduced-sodium
-soy
-sauce",\n
-"1/3
-cup
-light
-brown
-sugar",\n
-"1/4
-teaspoon
-crushed
-red
-pepper",\n
-"6
-green
-onions,
-chopped,
-divided",\n
-"4
-cups
-hot
-cooked
-brown
-rice",\n
-"1
-tablespoon
-toasted
-sesame
-seeds"\n
-],\n
-"recipeInstructions":
+'Easy Korean Ground Beef Bowl Recipe | Allrecipes'
+'Skip to content'
+'Top Navigation'
+'Explore'
+'Allrecipes'
+'Allrecipes'
+'Search'
+'Profile Menu'
+'Join Now'
+'Join Now'
+'Account'
+'Create a Profile'
+'Newsletters'
+'Help'
+'this link opens in a new tab'
+'More'
+'Shopping List'
+'Cooking School'
+'this link opens in a new tab'
+'Ask the Community'
+'this link opens in a new tab'
+'Your Account'
+'Your Account'
+'Account'
+'Your Profile'
+'Email Preferences'
+'Help'
+'this link opens in a new tab'
+'Logout'
+'More'
+'Shopping List'
+'Cooking School'
+'this link opens in a new tab'
+'Ask the Community'
+'this link opens in a new tab'
+'Login'
+'Get Allrecipes Magazine'
+'Pin'
+'Save'
+'Close this dialog window'
+'Explore Allrecipes'
+'Allrecipes'
+'Allrecipes'
+'Search'
+'Find a Recipe'
+'Find a Recipe'
+'Recipe or keyword'
+'Include these ingredients'
+'Filter by including Ingredients'
+'Do not include these ingredients'
+'Filter by excluding Ingredients'
+'Search'
+'Explore'
+'Explore'
+'The Kitchen Garden'
+'The Kitchen Garden'
+'Take your love of food to the next level by growing your own. Our first ever Allrecipes gardening guide gives you tips and advice to get you started.'
+'Read More'
+'Order Your Recipe Ingredients Online With One Click'
+'Order Your Recipe Ingredients Online With One Click'
+'Shop your favorite recipes with grocery delivery or pickup at your local Walmart.'
+'Read More'
+'How to Prepare Breakfast in Bed'
+'How to Prepare Breakfast in Bed'
+'Show loved ones how important they are by delivering a decadent breakfast in bed while they relax and start the day slowly.'
+'Read More'
+'Breakfast and Brunch Recipes'
+'Breakfast and Brunch Recipes'
+'See All Breakfast and Brunch Recipes'
+'15 Camping Breakfasts for Your Next Adventure'
+'15 Camping Breakfasts for Your Next Adventure'
+'Breakfast Burrito Recipes'
+'Breakfast Casserole Recipes'
+'Crepe Recipes'
+'Egg Recipes'
+'French Toast Recipes'
+'Frittata Recipes'
+'Granola Recipes'
+'Omelet Recipes'
+'Overnight Oat Recipes'
+'Pancake Recipes'
+'Quiche Recipes'
+'Waffle Recipes'
+'Lunch Recipes'
+'Lunch Recipes'
+'See All Lunch Recipes'
+'18 Easy Lunches You Can Make in 20 Minutes or Less'
+'18 Easy Lunches You Can Make in 20 Minutes or Less'
+'Healthy Lunch Recipes'
+'Sandwich Recipes'
+'Sandwich Wraps and Roll-Up Recipes'
+'School Lunch Ideas and Recipes'
+'Dinner Recipes'
+'Dinner Recipes'
+'See All Dinner Recipes'
+'15 Summer Sheet Pan Dinners'
+'15 Summer Sheet Pan Dinners'
+'Dinner Fix'
+'Chicken Recipes'
+'Chicken Breast Recipes'
+'Chicken Thigh Recipes'
+'Beef Recipes'
+'Ground Beef Recipes'
+'Pasta and Noodle Recipes'
+'Pork Recipes'
+'Pork Tenderloin Recipes'
+'Turkey Recipes'
+'Ground Turkey Recipes'
+'Seafood Recipes'
+'Salmon Recipes'
+'Shrimp Recipes'
+'Appetizer & Snack Recipes'
+'Appetizer & Snack Recipes'
+'See All Appetizer & Snack Recipes'
+'10+ Spicy Salsa Recipes'
+'10+ Spicy Salsa Recipes'
+'Baked Brie Recipes'
+'Bruschetta Recipes'
+'Chicken Wing Recipes'
+'Crab Cake Recipes'
+'Deviled Egg Recipes'
+'Fruit Dip Recipes'
+'Guacamole Recipes'
+'Hummus Recipes'
+'Jalapeno Popper Recipes'
+'Meatball Appetizers'
+'Nacho Recipes'
+'Salsa Recipes'
+'Stuffed Mushroom Recipes'
+'Bread Recipes'
+'Bread Recipes'
+'See All Bread Recipes'
+'6 Creative Cornbread Salads'
+'6 Creative Cornbread Salads'
+'Banana Bread Recipes'
+'Biscuit Recipes'
+'Bread Machine Recipes'
+'Cornbread Recipes'
+'Doughnut Recipes'
+'Muffin Recipes'
+'Pumpkin Bread Recipes'
+'Quick Bread Recipes'
+'Sourdough Bread Recipes'
+'Yeast Bread Recipes'
+'Zucchini Bread Recipes'
+'Dessert Recipes'
+'Dessert Recipes'
+'See All Dessert Recipes'
+'15 Honey Cake Recipes to Satisfy Your Sweet Tooth'
+'15 Honey Cake Recipes to Satisfy Your Sweet Tooth'
+'Baking Tips and Techniques'
+'Cake Recipes'
+'Carrot Cake Recipes'
+'Cheesecake Recipes'
+'Chocolate Cake Recipes'
+'Cookie Recipes'
+'Cupcake Recipes'
+'Frosting and Icing Recipes'
+'Ice Cream Recipes'
+'Peach Cobbler Recipes'
+'Pie Recipes'
+'Pineapple Upside-Down Cake Recipes'
+'Pound Cake Recipes'
+'Sugar-Free Dessert Recipes'
+'Sweet Spot'
+'Drink Recipes'
+'Drink Recipes'
+'See All Drink Recipes'
+'10 Refreshing Beer Cocktails for Summer'
+'10 Refreshing Beer Cocktails for Summer'
+'Bloody Mary Recipes'
+'Cocktail Recipes'
+'Coffee Drink Recipes'
+'Jell-o Shot Recipes'
+'Margarita Recipes'
+'Martini Recipes'
+'Punch Recipes'
+'Sangria Recipes'
+'Smoothie Recipes'
+'Cocktail Tips and Techniques'
+'Main Dish Recipes'
+'Main Dish Recipes'
+'See All Main Dish Recipes'
+'15 Main Dish Summer Salads Under 400 Calories'
+'15 Main Dish Summer Salads Under 400 Calories'
+'Beef Stroganoff Recipes'
+'Casserole Recipes'
+'Enchilada Recipes'
+'Macaroni and Cheese Recipes'
+'Pork Chop Recipes'
+"Shepherd's Pie Recipes"
+'Shrimp Scampi Recipes'
+'Salad Recipes'
+'Salad Recipes'
+'See All Salad Recipes'
+"12 Quick Rice Noodle Salads — Summer's Perfect Dinner"
+"12 Quick Rice Noodle Salads — Summer's Perfect Dinner"
+'Chicken Salad Recipes'
+'Coleslaw Recipes'
+'Cucumber Salad Recipes'
+'Egg Salad Recipes'
+'Fruit Salad Recipes'
+'Pasta Salad Recipes'
+'Potato Salad Recipes'
+'Spinach Salad Recipes'
+'Tuna Salad Recipes'
+'Side Dish Recipes'
+'Side Dish Recipes'
+'See All Side Dish Recipes'
+'Our 15 Best Broccoli Salad Recipes'
+'Our 15 Best Broccoli Salad Recipes'
+'Baked Bean Recipes'
+'Broccoli Side Dish Recipes'
+'Mashed Potato Recipes'
+'Pasta Sauce Recipes'
+'Potato Side Dish Recipes'
+'Rice Side Dish Recipes'
+'Salad Dressing Recipes'
+'Scalloped Potato Recipes'
+'Vegetable Side Dish Recipes'
+'Soup, Stew & Chili Recipes'
+'Soup, Stew & Chili Recipes'
+'See All Soup, Stew & Chili Recipes'
+'10 Fantastically Fresh Gazpacho Recipes'
+'10 Fantastically Fresh Gazpacho Recipes'
+'Beef Stew Recipes'
+'Cabbage Soup Recipes'
+'Chicken and Dumpling Recipes'
+'Chili Recipes'
+'Corn Chowder Recipes'
+'Gumbo Recipes'
+'Jambalaya Recipes'
+'Potato Soup Recipes'
+'Taco Soup Recipes'
+'Tomato Soup Recipes'
+'More Soup Recipes'
+'More Stew Recipes'
+'Cooking Style'
+'Cooking Style'
+'See All Cooking Style'
+'10 Air Fryer Chicken Thigh Recipes to Make for Dinner Tonight'
+'10 Air Fryer Chicken Thigh Recipes to Make for Dinner Tonight'
+'5 Ingredient Recipes'
+'Air Fryer Recipes'
+'BBQ & Grilling Recipes'
+'Cooking for Two'
+'Family Dinner Recipes'
+'Instant Pot Recipes'
+'Kid-Friendly Recipes'
+'Leftover Recipes'
+'Make-Ahead Recipes'
+'Quick & Easy Recipes'
+'Slow Cooker Recipes'
+'Vegan Recipes'
+'Vegetarian Recipes'
+'Diet & Healthy Recipes'
+'Diet & Healthy Recipes'
+'See All Diet & Healthy Recipes'
+'8 Low-Carb Pizza Recipes'
+'8 Low-Carb Pizza Recipes'
+'Well Fed'
+'Diabetic Recipes'
+'Gluten-Free Recipes'
+'Keto Recipes'
+'Low Calorie Recipes'
+'Low Carb Recipes'
+'Low Cholesterol Recipes'
+'Low Fat Recipes'
+'Low Sodium Recipes'
+'Mediterranean Diet Recipes'
+'Whole30 Recipes'
+'Holidays & Entertaining'
+'Holidays & Entertaining'
+'See All Holidays & Entertaining'
+"Wow-Worthy Father's Day Breakfasts"
+"Wow-Worthy Father's Day Breakfasts"
+'Holiday Planning'
+'Cocktail Hour'
+'Good Times, Good Food'
+"New Year's Recipes"
+'Recipes for Super Bowl(R)'
+"Valentines's Day Recipes"
+'Mardi Gras Recipes'
+"St. Patrick's Day Recipes"
+'Easter Recipes'
+'Cinco de Mayo Recipes'
+"Mother's Day Recipes"
+'4th of July Recipes'
+'Halloween Recipes'
+'Thanksgiving Recipes'
+'Christmas Recipes'
+'World Cuisine'
+'World Cuisine'
+'See All World Cuisine'
+'Our Top 10 Japanese Izakaya Recipes'
+'Our Top 10 Japanese Izakaya Recipes'
+'Chinese Recipes'
+'Filipino Recipes'
+'German Recipes'
+'Greek Recipes'
+'Indian Recipes'
+'Italian Recipes'
+'Japanese Recipes'
+'Mexican Recipes'
+'Russian Recipes'
+'Spanish Recipes'
+'Thai Recipes'
+'Global Kitchen'
+'Kitchen Tips'
+'Kitchen Tips'
+'See All Kitchen Tips'
+'Tomato Paste Substitute: What Can You Use Instead?'
+'Tomato Paste Substitute: What Can You Use Instead?'
+'Here&rsquo;s what to do if you find yourself without tomato paste.'
+'All About Ingredients'
+'Baking'
+'Bake It Up A Notch'
+'Buying'
+'Cleaning'
+'Recipe Conversion and Scaling'
+'Decorating Cakes, Cookies and Other Desserts'
+'Food Handling and Safety'
+'Gardening'
+'Grilling and Other Outdoor Cooking'
+'How To'
+'Meal Planning and Menus'
+'Ingredient Substitutions'
+'Kitchen Tools and Techniques'
+'You Can Cook That'
+'Allrecipes Magazine Recipes'
+'Food Wishes with Chef John'
+'Homemade Podcast'
+'Trusted Brands'
+'Food News and Trends'
+'Food News and Trends'
+'See All Food News and Trends'
+'8 Essential Air Fryer Recipes'
+'8 Essential Air Fryer Recipes'
+'Grease-free, easy cleanup, and full of flavor.'
+'Cooks to Follow'
+'Gift Guides'
+'Product Reviews and Buying Guides'
+'Recalls'
+'Profile Menu'
+'Get Allrecipes Magazine'
+'this link opens in a new tab'
+'Join Now'
+'Join Now'
+'Account'
+'Create a Profile'
+'Newsletters'
+'Help'
+'this link opens in a new tab'
+'More'
+'Shopping List'
+'Cooking School'
+'this link opens in a new tab'
+'Ask the Community'
+'this link opens in a new tab'
+'Your Account'
+'Your Account'
+'Account'
+'Your Profile'
+'Email Preferences'
+'Help'
+'this link opens in a new tab'
+'Logout'
+'More'
+'Shopping List'
+'Cooking School'
+'this link opens in a new tab'
+'Ask the Community'
+'this link opens in a new tab'
+'Login'
+'Sweepstakes'
+'Follow Us'
+'Home'
+'Chevron Right'
+'Recipes'
+'Chevron Right'
+'World Cuisine Recipes'
+'Chevron Right'
+'Asian'
+'Chevron Right'
+'Easy Korean Ground Beef Bowl'
+'Easy Korean Ground Beef Bowl'
+'Rating: 4.64 stars'
+"1 – Couldn't eat it"
+"2 – Didn't like it"
+'3 – It was OK'
+'4 – Liked it'
+'5 – Loved it'
+'463 Ratings'
+'5'
+'star values:'
+'339'
+'4'
+'star values:'
+'93'
+'3'
+'star values:'
+'24'
+'2'
+'star values:'
+'4'
+'1'
+'star values:'
+'3'
+'Read Reviews'
+'Add Reviews'
+'463 Ratings'
+'297 Reviews'
+'86 Photos'
+'Korean beef bowls are quick and easy to make. The ingredients can easily be adjusted to suit your taste. Serve over warm rice or spiralized vegetables.'
+'By'
+'bd.weld'
+'Save'
+'Pin'
+'Print'
+'Share'
+'Facebook'
+'Tweet'
+'Mail'
+'Email'
+'iphone'
+'Send Text Message'
+'Gallery'
+'Easy Korean Ground Beef Bowl'
+'Watch'
+'Easy Korean Ground Beef Bowl Jared Stevenson'
+'Easy Korean Ground Beef Bowl Pat J'
+'Easy Korean Ground Beef Bowl Iya'
+'Easy Korean Ground Beef Bowl Crystal Ann'
+'+ 82'
+'82 more images'
+'Recipe Summary'
+'prep:'
+'10 mins'
+'cook:'
+'15 mins'
+'total:'
+'25 mins'
+'Servings:'
+'4'
+'Yield:'
+'4 bowls'
+'Nutrition Info'
+'Advertisement'
+'Ingredients'
+'Decrease Serving'
+'4'
+'Increase Serving'
+'Adjust'
+'Original recipe yields 4 servings'
+'The ingredient list now reflects the servings specified'
+'Ingredient Checklist'
+'1 pound lean ground beef'
+'5 cloves garlic, crushed'
+'1 tablespoon freshly grated ginger'
+'2 teaspoons toasted sesame oil'
+'½ cup reduced-sodium soy sauce'
+'⅓ cup light brown sugar'
+'¼ teaspoon crushed red pepper'
+'6  green onions, chopped, divided'
+'4 cups hot cooked brown rice'
+'1 tablespoon toasted sesame seeds'
+'Add all ingredients to shopping list'
+'View your list'
+'Directions'
+'Instructions Checklist'
+'Step 1'
+'Heat a large skillet over medium-high heat. Add beef and cook, stirring and crumbling into small pieces until browned, 5 to 7 minutes. Drain excess grease.'
+'Advertisement'
+'Step 2'
+'Add garlic, ginger, and sesame oil, stirring until fragrant, about 2 minutes. Stir in soy sauce, brown sugar, and red pepper. Cook until some of the sauce absorbs into the beef, about 7 minutes. Add 1/2 of the chopped green onions.'
+'Step 3'
+'Serve beef over hot cooked rice; garnished with sesame seeds and remaining green onions.'
+'I Made It'
+'Print'
+'Nutrition Facts'
+'Per Serving:'
+'574 calories; protein 28.8g; carbohydrates 70.3g; fat 19.1g; cholesterol 74.3mg; sodium 1142.2mg.'
+'Full Nutrition'
+'Advertisement'
+'Reviews'
+'(297)'
+'Read More Reviews'
+'Add Rating & Review'
+'Most helpful positive review'
+'Don L'
+'Rating: 5 stars'
+'10/24/2018'
+'I made it to the recipe, but rather than over rice I made it as an appetizer and served it on lettuce leaves as a wrap. Our guests loved it. I would make it again and serve it the same way.'
+'Read More'
+'Thumb Up'
+'Helpful'
+'(59)'
+'Most helpful critical review'
+'Harper Witbrod'
+'Rating: 1 stars'
+'01/23/2020'
+'it was very good'
+'Read More'
+'Thumb Up'
+'Helpful'
+'(4)'
+'463 Ratings'
+'5'
+'star values:'
+'339'
+'4'
+'star values:'
+'93'
+'3'
+'star values:'
+'24'
+'2'
+'star values:'
+'4'
+'1'
+'star values:'
+'3'
+'Reviews:'
+'Most Helpful'
+'Most Helpful'
+'Most Positive'
+'Least Positive'
+'Newest'
+'Don L'
+'Rating: 5 stars'
+'10/24/2018'
+'I made it to the recipe, but rather than over rice I made it as an appetizer and served it on lettuce leaves as a wrap. Our guests loved it. I would make it again and serve it the same way.'
+'Read More'
+'Thumb Up'
+'Helpful'
+'(59)'
+'RecipeFanatic'
+'Rating: 5 stars'
+'10/27/2018'
+'I wrapped mine in flour tortillas and added shredded cabbage and made “tacos”. It was so good, and I garnished it with the red garlic chili sauce that I get at the Asian supermarket. I even forgot the rice, but it didn’t even matter. Quick, easy, and delicious!'
+'Read More'
+'Thumb Up'
+'Helpful'
+'(34)'
+'Buckwheat Queen'
+'Allstar'
+'Rating: 5 stars'
+'11/09/2018'
+'Your busy weeknight needs this dish. Even your lazy Saturdays will be happy with it. My family devoured this. It’s so simple to make and it is super delicious and full of flavor. Leftovers warm easily, which is great when you’ve got teenage midnight grazers. \n                    The first time I made it, I served it over rice. Second time with rice noodles. The next time I make it I’ll take the advice of the other reviewer and serve as tacos with cabbage. Thank you for the awesome recipe.'
+'Read More'
+'Thumb Up'
+'Helpful'
+'(27)'
+'Advertisement'
+'~Sheri~'
+'Rating: 5 stars'
+'01/15/2019'
+"Great, quick recipe that the whole family loved. I would probably cut some of the brown sugar next time and DEFINITELY use low salt soy sauce. I didn't have enough so I used some regular and it was pretty salty. Next time I'm going to try with coconut aminos. I also added some shredded carrots at the end to increase veggie content. Served with steamed rice. This one will go into our rotation!"
+'Read More'
+'Thumb Up'
+'Helpful'
+'(14)'
+'FrackFamily5 CA—>CT'
+'Rating: 5 stars'
+'07/30/2019'
+'This  is so delicious.    I added cauliflower to the meat mixture Since I needed to use it up.  I’ll make this again.  Excellent flavor.'
+'Read More'
+'Thumb Up'
+'Helpful'
+'(9)'
+'Sonja'
+'Rating: 5 stars'
+'01/19/2019'
+'Absolutely delicious!  Made rice in my rice maker while getting everything else ready.  Will add one or a combination of: cashews.  broccoli.  water chestnuts.  carrots.  possibilities are endless!'
+'Read More'
+'Thumb Up'
+'Helpful'
+'(8)'
+'Advertisement'
+'yanique'
+'Rating: 5 stars'
+'11/06/2018'
+'I had also most every ingredient (I was missing green onions) but it was still very delicious I can’t wait to make this again and I’ll make sure I have green onions. This is now added to my family’s favorite meals to cook.'
+'Read More'
+'Thumb Up'
+'Helpful'
+'(7)'
+'Niki'
+'Rating: 5 stars'
+'10/17/2018'
+"I didn't have sesame oil, so I just used canola oil.  I also didn't have crushed red pepper so I sprinkles in some hot chili powder.  I substituted the rice for quinoa for the kids and cauliflower rice for adults.  This is a new family favorite!"
+'Read More'
+'Thumb Up'
+'Helpful'
+'(7)'
+'Teena'
+'Rating: 5 stars'
+'02/13/2019'
+'This was really good and flavorful. I don’t like to change peoples recipes but I needed to use up a red bell pepper, shallot and broccoli so I added them in. Yuuummmm??. Will definitely make this again. \n                    Thank you'
+'Read More'
+'Thumb Up'
+'Helpful'
+'(6)'
+'Harper Witbrod'
+'Rating: 1 stars'
+'01/23/2020'
+'it was very good'
+'Read More'
+'Thumb Up'
+'Helpful'
+'(4)'
+'More Reviews'
+'Back to Easy Korean Ground Beef Bowl'
+'All Reviews for'
+'Easy Korean Ground Beef Bowl'
+'- of  Reviews'
+'Reviews:'
+'Most Helpful'
+'Most Helpful'
+'Most Positive'
+'Least Positive'
+'Newest'
+'Advertisement'
+'Close this dialog window'
+'Share options'
+'Close this dialog window'
+'Nutritional Information'
+'Easy Korean Ground Beef Bowl'
+'Servings Per Recipe: 4'
+'Calories:'
+'573.5'
+'% Daily Value *'
+'protein:'
+'28.8g'
+'58 %'
+'carbohydrates:'
+'70.3g'
+'23 %'
+'dietary fiber:'
+'4.5g'
+'18 %'
+'sugars:'
+'18.9g'
+'fat:'
+'19.1g'
+'29 %'
+'saturated fat:'
+'6.2g'
+'31 %'
+'cholesterol:'
+'74.3mg'
+'25 %'
+'vitamin a iu:'
+'302.7IU'
+'6 %'
+'niacin equivalents:'
+'13.6mg'
+'105 %'
+'vitamin b6:'
+'0.7mg'
+'42 %'
+'vitamin c:'
+'5.6mg'
+'9 %'
+'folate:'
+'35.8mcg'
+'9 %'
+'calcium:'
+'72.2mg'
+'7 %'
+'iron:'
+'7.4mg'
+'41 %'
+'magnesium:'
+'122.6mg'
+'44 %'
+'potassium:'
+'588.6mg'
+'17 %'
+'sodium:'
+'1142.2mg'
+'46 %'
+'thiamin:'
+'0.3mg'
+'28 %'
+'calories from fat:'
+'172'
+'*'
+'Percent Daily Values are based on a 2,000 calorie diet.  Your daily values may be higher or lower depending on your calorie needs.'
+'**'
+'Nutrient information is not available for all ingredients.  Amount is based on available nutrient data.'
+'(-)'
+'Information is not currently available for this nutrient.  If you are following a medically restrictive diet, please consult your doctor or registered dietitian before preparing this recipe for personal consumption.'
+'Powered by the ESHA Research Database © 2018,'
+'ESHA Research, Inc.'
+'All Rights Reserved'
+'Back to Recipe'
+'Recipe'
+'Reviews'
+'Photos'
+'Reviews for'
+'Photos of'
+'Easy Korean Ground Beef Bowl'
+'Reviews:'
+'Most Helpful'
+'Most Helpful'
+'Most Positive'
+'Least Positive'
+'Newest'
+'1'
+'of 297'
+'All Reviews'
+'Don L'
+'Rating: 5 stars'
+'10/24/2018'
+'I made it to the recipe, but rather than over rice I made it as an appetizer and served it on lettuce leaves as a wrap. Our guests loved it. I would make it again and serve it the same way.'
+'Thumb Up'
+'Helpful'
+'(59)'
+'RecipeFanatic'
+'Rating: 5 stars'
+'10/27/2018'
+'I wrapped mine in flour tortillas and added shredded cabbage and made “tacos”. It was so good, and I garnished it with the red garlic chili sauce that I get at the Asian supermarket. I even forgot the rice, but it didn’t even matter. Quick, easy, and delicious!'
+'Thumb Up'
+'Helpful'
+'(34)'
+'Buckwheat Queen'
+'Easy Korean Ground Beef Bowl'
+'Allstar'
+'Rating: 5 stars'
+'11/09/2018'
+'Your busy weeknight needs this dish. Even your lazy Saturdays will be happy with it. My family devoured this. It’s so simple to make and it is super delicious and full of flavor. Leftovers warm easily, which is great when you’ve got teenage midnight grazers. \n                The first time I made it, I served it over rice. Second time with rice noodles. The next time I make it I’ll take the advice of the other reviewer and serve as tacos with cabbage. Thank you for the awesome recipe.'
+'Thumb Up'
+'Helpful'
+'(27)'
+'~Sheri~'
+'Rating: 5 stars'
+'01/15/2019'
+"Great, quick recipe that the whole family loved. I would probably cut some of the brown sugar next time and DEFINITELY use low salt soy sauce. I didn't have enough so I used some regular and it was pretty salty. Next time I'm going to try with coconut aminos. I also added some shredded carrots at the end to increase veggie content. Served with steamed rice. This one will go into our rotation!"
+'Thumb Up'
+'Helpful'
+'(14)'
+'FrackFamily5 CA—>CT'
+'Rating: 5 stars'
+'07/30/2019'
+'This  is so delicious.    I added cauliflower to the meat mixture Since I needed to use it up.  I’ll make this again.  Excellent flavor.'
+'Thumb Up'
+'Helpful'
+'(9)'
+'Sonja'
+'Rating: 5 stars'
+'01/19/2019'
+'Absolutely delicious!  Made rice in my rice maker while getting everything else ready.  Will add one or a combination of: cashews.  broccoli.  water chestnuts.  carrots.  possibilities are endless!'
+'Thumb Up'
+'Helpful'
+'(8)'
+'yanique'
+'Rating: 5 stars'
+'11/06/2018'
+'I had also most every ingredient (I was missing green onions) but it was still very delicious I can’t wait to make this again and I’ll make sure I have green onions. This is now added to my family’s favorite meals to cook.'
+'Thumb Up'
+'Helpful'
+'(7)'
+'Niki'
+'Rating: 5 stars'
+'10/17/2018'
+"I didn't have sesame oil, so I just used canola oil.  I also didn't have crushed red pepper so I sprinkles in some hot chili powder.  I substituted the rice for quinoa for the kids and cauliflower rice for adults.  This is a new family favorite!"
+'Thumb Up'
+'Helpful'
+'(7)'
+'Teena'
+'Rating: 5 stars'
+'02/13/2019'
+'This was really good and flavorful. I don’t like to change peoples recipes but I needed to use up a red bell pepper, shallot and broccoli so I added them in. Yuuummmm??. Will definitely make this again. \n                Thank you'
+'Thumb Up'
+'Helpful'
+'(6)'
+'Harper Witbrod'
+'Rating: 1 stars'
+'01/23/2020'
+'it was very good'
+'Thumb Up'
+'Helpful'
+'(4)'
+'Easy Korean Ground Beef Bowl'
+'1 of 86'
+'Easy Korean Ground Beef Bowl'
+'Jared Stevenson'
+'Easy Korean Ground Beef Bowl'
+'2 of 86'
+'Easy Korean Ground Beef Bowl'
+'Pat J'
+'Easy Korean Ground Beef Bowl'
+'3 of 86'
+'Easy Korean Ground Beef Bowl'
+'Iya'
+'Easy Korean Ground Beef Bowl'
+'4 of 86'
+'Easy Korean Ground Beef Bowl'
+'Crystal Ann'
+'Easy Korean Ground Beef Bowl'
+'5 of 86'
+'Easy Korean Ground Beef Bowl'
+'barbara'
+'Easy Korean Ground Beef Bowl'
+'6 of 86'
+'Easy Korean Ground Beef Bowl'
+'Stephen'
+'Easy Korean Ground Beef Bowl'
+'7 of 86'
+'Easy Korean Ground Beef Bowl'
+'TengG'
+'Easy Korean Ground Beef Bowl'
+'8 of 86'
+'Easy Korean Ground Beef Bowl'
+'Catherine Wilson'
+'Easy Korean Ground Beef Bowl'
+'9 of 86'
+'Easy Korean Ground Beef Bowl'
+'Rebecca Green'
+'Easy Korean Ground Beef Bowl'
+'10 of 86'
+'Easy Korean Ground Beef Bowl'
+'lilitiger'
+'Easy Korean Ground Beef Bowl'
+'11 of 86'
+'Easy Korean Ground Beef Bowl'
+'GAHAGAN'
+'Easy Korean Ground Beef Bowl'
+'12 of 86'
+'Easy Korean Ground Beef Bowl'
+'Matty Ferguson'
+'Easy Korean Ground Beef Bowl'
+'13 of 86'
+'Easy Korean Ground Beef Bowl'
+'Jason Burnett'
+'Easy Korean Ground Beef Bowl'
+'14 of 86'
+'Easy Korean Ground Beef Bowl'
+'brokegradstudent'
+'Easy Korean Ground Beef Bowl'
+'15 of 86'
+'Easy Korean Ground Beef Bowl'
+'brokegradstudent'
+'Easy Korean Ground Beef Bowl'
+'16 of 86'
+'Easy Korean Ground Beef Bowl'
+'Kenya Malissa'
+'Easy Korean Ground Beef Bowl'
+'17 of 86'
+'Easy Korean Ground Beef Bowl'
+'Wolfcook'
+'Easy Korean Ground Beef Bowl'
+'18 of 86'
+'Easy Korean Ground Beef Bowl'
+'Happyschmoopies'
+'Easy Korean Ground Beef Bowl'
+'19 of 86'
+'Easy Korean Ground Beef Bowl'
+'Nancy Anderson'
+'Easy Korean Ground Beef Bowl'
+'20 of 86'
+'Easy Korean Ground Beef Bowl'
+'Kenstir'
+'Back to Recipe'
+'Review this recipe'
+'Add Photo'
+'Easy Korean Ground Beef Bowl'
+'Rate this recipe'
+'Your rating'
+'Rate this a 1:'
+"Couldn't eat it"
+'Rate this a 2:'
+"Didn't like it"
+'Rate this a 3:'
+'It was OK'
+'Rate this a 4:'
+'Liked it'
+'Rate this a 5:'
+'Loved it'
+'What did you think about this recipe? Did you make any changes or notes?'
+'Submit'
+'Success!'
+'Thanks for adding your feedback.'
+'Close this dialog window'
+'Successfull saved'
+'Congrats! You saved Easy Korean Ground Beef Bowl to your'
+'Favorites'
+'Close'
+'Login'
+'Allrecipes'
+'Magazines & More'
+'Learn More'
+'Subscribe'
+'this link opens in a new tab'
+'Customer Service'
+'this link opens in a new tab'
+'Jobs'
+'this link opens in a new tab'
+'Advertise'
+'this link opens in a new tab'
+'Content Licensing'
+'this link opens in a new tab'
+'Apps'
+'this link opens in a new tab'
+'Sitemap'
+'this link opens in a new tab'
+'Connect'
+'Follow Us'
+'Global Communities'
+'Close this dialog window'
+'Global Communities'
+'Australia & New Zealand'
+'this link opens in a new tab'
+'Canada'
+'this link opens in a new tab'
+'Quebec'
+'this link opens in a new tab'
+'United Kingdom & Ireland'
+'this link opens in a new tab'
+'United States'
+'this link opens in a new tab'
+'Subscribe to Our Newsletter'
+'Other Meredith Sites'
+'Close this dialog window'
+'Other Meredith Sites'
+'4 Your Health'
+'this link opens in a new tab'
+'All People Quilt'
+'this link opens in a new tab'
+'Better Homes & Gardens'
+'this link opens in a new tab'
+'Bizrate Insights'
+'this link opens in a new tab'
+'Bizrate Surveys'
+'this link opens in a new tab'
+'Cooking Light'
+'this link opens in a new tab'
+'Daily Paws'
+'this link opens in a new tab'
+'EatingWell'
+'this link opens in a new tab'
+'Eat This, Not That'
+'this link opens in a new tab'
+'Entertainment Weekly'
+'this link opens in a new tab'
+'Food & Wine'
+'this link opens in a new tab'
+'Health'
+'this link opens in a new tab'
+'Hello Giggles'
+'this link opens in a new tab'
+'Instyle'
+'this link opens in a new tab'
+'Martha Stewart'
+'this link opens in a new tab'
+'Midwest Living'
+'this link opens in a new tab'
+'More'
+'this link opens in a new tab'
+'MyRecipes'
+'this link opens in a new tab'
+'MyWedding'
+'this link opens in a new tab'
+'My Food and Family'
+'this link opens in a new tab'
+'MyLife'
+'this link opens in a new tab'
+'Parenting'
+'this link opens in a new tab'
+'Parents'
+'this link opens in a new tab'
+'People'
+'this link opens in a new tab'
+'People en Español'
+'this link opens in a new tab'
+'Rachael Ray Magazine'
+'this link opens in a new tab'
+'Real Simple'
+'this link opens in a new tab'
+'Ser Padres'
+'this link opens in a new tab'
+'Shape'
+'this link opens in a new tab'
+'Siempre Mujer'
+'this link opens in a new tab'
+'Southern Living'
+'this link opens in a new tab'
+'SwearBy'
+'this link opens in a new tab'
+'Travel & Leisure'
+'this link opens in a new tab'
+'Meredith'
+'Allrecipes is part of the Meredith Food Group. © Copyright 2021'
+'Meredith Corporation'
+'this link opens in a new tab'
+'. All Rights Reserved.'
+'Privacy Policy'
+'this link opens in a new tab'
+'Terms of Service'
+'this link opens in a new tab'
+'Ad Choices'
+'this link opens in a new tab'
+'California Do Not Sell'
+'this link opens a modal window'
+'Web Accessibility'
+'this link opens in a new tab'
+'© Copyright 2021'
+'allrecipes.com'
+'. All rights reserved.'
+'Printed from'
+'https://www.allrecipes.com'
+'06/16/2021'
+'Close this dialog window'
+'View image'
+'Easy Korean Ground Beef Bowl'
+'this link is to an external site that may or may not meet accessibility guidelines.'
