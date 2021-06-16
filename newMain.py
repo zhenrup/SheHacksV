@@ -7,7 +7,6 @@ import re
 import csv
 
 def getWeb(link):
-    inFile = open('ogFile.txt', 'w')
 
     with urllib.request.urlopen(link) as url:
                 recipeWeb = url.read()
@@ -17,10 +16,31 @@ def getWeb(link):
         for string in soup.stripped_strings:
             print(repr(string), file = inFile)        
         inFile.close
+
     return
+
+def findIngredients(fileName):
+
+    ingredientArray = []
+
+    recipeFile = open(fileName, 'r')
+    found = False
+    count = 0
+    for line in recipeFile:
+        line = (line.replace("'", "")).replace("\n", "")
+        count = count + 1       
+        if line.__eq__('Ingredient Checklist'):
+            found = True
+
+        if line.__eq__('Add all ingredients to shopping list'):
+            found = False
+        
+        if found == True:
+            ingredientArray.append(line)
     
-# Ingredients checklist
+    return ingredientArray
 
-getWeb("https://www.allrecipes.com/recipe/268091/easy-korean-ground-beef-bowl/")
-
+# getWeb('https://www.allrecipes.com/recipe/260851/pepper-beef-rice-skillet/')
+# getWeb("https://www.allrecipes.com/recipe/268091/easy-korean-ground-beef-bowl/")
+array = findIngredients('parsedFile.txt')
 
