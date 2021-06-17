@@ -1,1 +1,1 @@
-# SheHacksV
+# SheHacksV Team Project
