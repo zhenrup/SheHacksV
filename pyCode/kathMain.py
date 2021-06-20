@@ -108,7 +108,7 @@ def replaceSpecialChar(line):
     return line
 
 def load_data(filename='food.csv'):
-    reader = csv.reader(open(filename, 'r', encoding='utf-8', errors='ignore'))
+    reader = csv.reader(open(filename, 'r', encoding='utf-8'))
     data = []
     for line in reader:
         data.append(line)
