@@ -3,7 +3,8 @@ body,
 section {
     height: 100%;
     margin: 0;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Didot', sans-serif;
+
 }
 body {
     color: #fff;
@@ -20,10 +21,12 @@ body {
     display: flex;
 }
 .left-half {
-    background-color: #ace1af;
+    background-color: #c1e0c2;
     flex: 1;
     padding: 1rem;
-    color: white;
+    color: green;
+    text-shadow: 2px 2px lightgray;
+
 }
 
 .right-half{
