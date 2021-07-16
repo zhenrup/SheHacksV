@@ -1,22 +1,30 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="stylesheet" href="style.css">
-        <title>Sustainable Recipe Converter</title>
+        <title>MeetGreen</title>
     </head>
     <body>
-        <div class = "logo-container">
-            <h4 class = "logo">Sustainable Recipe Alternatives</h4>
-        </div> 
 
-            <h5 class = "description">Enter recipe URL and get sustainable ingredients alternatives & your saved carbon emissions!</h4>
-
-        <div>
-            <input class="center_this" type="url" id = "input_link" placeholder="recipe url goes in here" required></input>
+        <section class = "in">
+            <h1 class = "logo">MeetGreen</h4>
+            <p class = "description">Enter a recipe URL then it will substitute meat ingredients with more sustainable options with the same amount of protein.</p>
+            <p class = "description">It also calculate the amount of carbon emissions saved.</p>
+            <input id = "url_box" class="center" type="url" id = "input_link" placeholder="recipe url goes in here" required></input>
             <br>
-            <input class="center_this" type="submit" value="Submit">
-            <a href="second.html"></a>
-        </div>
+            <input id = "enter_box" class="center" type="submit" value="Enter">
+        </section>
+
+
+        <section class = "output_sub">
+            <p class = "description">Substitute 3.26 lbs of tofu in your recipe for the 1 lb of ground beef in your Easy Korean Ground Beef Bowl recipe.</p>
+            <img src="image/sustainability.jpg" altr = "earth pic" class ="center">
+        </section>
+
+        <section class = "output_carbon">
+            <p class = "description">You reduced your carbone emissions by 3.54kg </p>
+        </section>
         
     </body> 
 </html>
