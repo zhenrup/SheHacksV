@@ -37,8 +37,23 @@ def findIngredients(fileName):
                 found = False
             
             if found == True:
+                if line[0] == '½':
+                    line = line.replace('½', '0.5')
+                elif line[0] == '⅓':
+                    line = line.replace('⅓', '0.333')
+                elif line[0] == '¼':
+                    line = line.replace('¼', '0.25')
                 ingredientArray.append(line)
     return ingredientArray
+    
+
+def makeDict():
+    foodDict = {'data':[]}
+    with open('food.csv', 'r', encoding='utf-8') as inputData:
+        reader = csv.reader(inputData)
+        for line in reader:
+            foodDict['data'].append({'name':line[0], 'proteins_per 100g': line[1], 'carbon_footprint': line[2]})
+    return foodDict
 
 
 def subsitution(array, dict, input):
@@ -50,23 +65,11 @@ def subsitution(array, dict, input):
                 ogProtein = dict['data'][j].get('proteins_per_100g')
             if dict['data'][j].get('name') in input:
                 subProtein = dict['data'][j].get('proteins_per_100g')
-    
+                
 
-def makeDict(fileName = 'food.csv'):
-    foodDict = {'data':[]}
-    with open(fileName, 'r', encoding='utf-8') as inputData:
-        reader = csv.reader(inputData)
-        for line in reader:
-            foodDict['data'].append({'name':line[0], 'proteins_per 100g': line[1], 'carbon_footprint': line[2]})
-    return foodDict
-
-# getWeb('https://www.allrecipes.com/recipe/260851/pepper-beef-rice-skillet/')
 parsedFile = getWeb("https://www.allrecipes.com/recipe/268091/easy-korean-ground-beef-bowl/")
 array = findIngredients(parsedFile)
-print(float('½'))
 # for i in range(1, len(array)):
-#     print(type(array[i][0]))
-#     convert = array[i][0]
-#     print(int(convert))
-# protein = makeDict()
-#subsitution(array, protein, 'tofu')
+#     print(array[i])
+proteinList = makeDict()
+subsitution(array, proteinList, 'tofu')
