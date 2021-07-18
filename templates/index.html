@@ -7,23 +7,59 @@
     </head>
     <body>
 
-        <section class = "in">
+        <section class = "in" id = "begin">
             <h1 class = "logo">MeetGreen</h4>
             <p class = "description">Enter a recipe URL then it will substitute meat ingredients with more sustainable options with the same amount of protein.</p>
             <p class = "description">It also calculate the amount of carbon emissions saved.</p>
             <input id = "url_box" class="center" type="url" id = "input_link" placeholder="recipe url goes in here" required></input>
             <br>
-            <input id = "enter_box" class="center" type="submit" value="Enter">
+            <a href="#result" style="text-decoration:none;"><input id = "enter_box" class="center" type="button" value="Enter"></a>
         </section>
 
 
-        <section class = "output_sub">
-            <p class = "description">Substitute 3.26 lbs of tofu in your recipe for the 1 lb of ground beef in your Easy Korean Ground Beef Bowl recipe.</p>
-            <img src="image/sustainability.jpg" altr = "earth pic" class ="center">
+        <section class = "output_sub" id = "result">
+            <p class = "output">We substituted 3.26 lbs of tofu in your recipe for the 1 lb of ground beef in your Easy Korean Ground Beef Bowl recipe.</p>
+            <!-- <p class = "description"> Full Recipe Ingredients</p>
+            <ul>
+                <li>3.26 pounds tofu</li>
+                <li>5 cloves garlic, crushed</li>
+                <li>1 tablespoon freshly grated ginger</li>
+                <li>2 teaspoons toasted sesame oil</li>
+                <li>½ cup reduced-sodium soy sauce</li>
+                <li>⅓ cup light brown sugar</li>
+                <li>¼ teaspoon crushed red pepper</li>
+                <li>½ cup reduced-sodium soy sauce</li>
+                <li>6  green onions, chopped, divided</li>
+                <li>4 cups hot cooked brown rice/li>
+                <li>1 tablespoon toasted sesame seeds</li>
+
+            </ul> -->
+            <div class = "class1">
+                <ul>
+                    <li>3.26 pounds tofu</li>
+                    <li>5 cloves garlic, crushed</li>
+                    <li>1 tablespoon freshly grated ginger</li>
+                    <li>2 teaspoons toasted sesame oil</li>
+                    <li>½ cup reduced-sodium soy sauce</li>
+                    <li>⅓ cup light brown sugar</li>
+                </ul>
+            </div>
+            <div class = "class2">
+                <img src="image/sustainability.jpg" altr = "earth pic" class ="center">
+            </div>
+            <div class = "class3">test2</div>
         </section>
 
         <section class = "output_carbon">
-            <p class = "description">You reduced your carbone emissions by 3.54kg </p>
+            <p class = "output">You reduced your carbone emissions by 3.54kg </p>
+            <a href="#begin" style="text-decoration:none;"><input id = "back_box" class="center" type="button" value="Try with another recipe"></a>
+
+        </section>
+
+        <section class = "end">
+            <h1 class = "logo">Developer: Zhenru, Kathryn, Tahla</h1>
+            <p class = "description">It's a Hackthon project. However, some updates were made after SheHacksV</p>
+            <p class = "description">Check out the project repo: <a href="https://github.com/zhenrup/SheHacksV">https://github.com/zhenrup/SheHacksV</a></p>
         </section>
         
     </body> 

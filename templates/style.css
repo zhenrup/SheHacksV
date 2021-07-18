@@ -20,7 +20,7 @@ section.in, section.output_carbon{
     background-color:#c1e0c2;
 }
 
-section.output_sub{
+section.output_sub, section.end{
     height: 100%;
     background-color:white;
 }
@@ -46,21 +46,34 @@ h1.logo{
 p.description{
     margin-bottom: 15px;
     color: green;
-    font-size: 20px;
+    font-size: 22px;
     font-family: 'Didot', sans-serif;
     text-align: center;
+    text-shadow: 0.5px 0.5px white;
+}
 
+p.output{
+    position:relative;
+    top: 160px;
+    color: green;
+    font-size: 22px;
+    font-family: 'Didot', sans-serif;
+    text-align: center;
+    text-shadow: 0.5px 0.5px white;
 }
 
 input#url_box{
-    margin-top: 50px;
+    margin-top: 40px;
     padding:12px;
     font-family: 'Didot', sans-serif;
     box-shadow:0 0 15px 5px rgba(0,0,0,0.08);
     width: 500px;
     border: 0px;
     border-radius:10px;
+    font-size: 15px;
     text-align: center;
+    opacity: 0.5;
+    background-image: "image/sustainability.jpg";
 }
 
 input#enter_box{
@@ -70,8 +83,42 @@ input#enter_box{
     box-shadow:0 0 15px 4px rgba(0,0,0,0.08);
     width: 100px;
     border: 0px;
+    font-size: 15px;
     border-radius:10px;
     text-align: center;
+    color:rgb(1, 94, 1);
+    font-weight: bold;
+    opacity: 0.6;
+}
+
+input#back_box{
+    margin-top: 250px;
+    padding:12px;
+    font-family: 'Didot', sans-serif;
+    box-shadow:0 0 15px 5px rgba(0,0,0,0.08);
+    width: 500px;
+    border: 0px;
+    border-radius:10px;
+    font-size: 15px;
+    text-align: center;
+    color:rgb(1, 94, 1);
+    font-weight: bold;
+    opacity: 0.6;
+}
+
+img{
+    /* margin-top:250px; */
+    width:600px;
+    height: auto;
+}
+
+.class1,
+.class2,
+.class3 {
+    margin-top: 250px;
+    width: 33.33%;
+    float: left;
+    height: 100%;
 }
 
 /* body{
